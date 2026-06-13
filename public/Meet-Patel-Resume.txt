@@ -1,0 +1,21 @@
+Meet Patel
+Computer Science Student | Frontend Developer | AI Enthusiast
+
+Profile
+Computer Science student focused on frontend development, responsive design,
+React.js applications, and AI-assisted software ideas.
+
+Skills
+HTML5, CSS3, JavaScript, React.js, React Router DOM, Responsive Design,
+GitHub, UI Development, Problem Solving, Communication
+
+Projects
+Chess AI Assistant - AI-focused chess move assistant concept.
+Music Streaming Website - Responsive music platform interface.
+Personal Portfolio - Multi-page React portfolio website.
+React Dashboard - Modern dashboard layout with reusable UI components.
+
+Contact
+GitHub: https://github.com/meetpatel53
+LinkedIn: https://www.linkedin.com/in/meet-patel-634763304/
+Location: Gujarat, India
