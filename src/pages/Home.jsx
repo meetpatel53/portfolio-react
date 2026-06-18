@@ -21,7 +21,7 @@ function Home() {
         <div className="social-row" aria-label="Social profiles">
           <a href="https://github.com/meetpatel53" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
           <a href="https://www.linkedin.com/in/meet-patel-634763304/" target="_blank" rel="noreferrer" aria-label="LinkedIn"><FaLinkedin /></a>
-          <a href="mailto:meetpatel9969gmail.com" aria-label="Email"><FaEnvelope /></a>
+         
         </div>
       </div>
    
